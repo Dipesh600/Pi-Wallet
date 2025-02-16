@@ -54,6 +54,5 @@ npm run dev
 
 ## 📜 **License**  
 
-This project is open-source and available under the **MIT License**.  
+This project is open-source and available under the **Dipesh Chaudhary**.  
 
-Let me know if you need modifications before uploading it to GitHub! 🚀
